@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://cmsundara.github.io/csb-ycmi9l/static/css/main.72dbce2d.chunk.css",
+    "main.js": "https://cmsundara.github.io/csb-ycmi9l/static/js/main.ef3305a8.chunk.js",
+    "main.js.map": "https://cmsundara.github.io/csb-ycmi9l/static/js/main.ef3305a8.chunk.js.map",
+    "runtime-main.js": "https://cmsundara.github.io/csb-ycmi9l/static/js/runtime-main.ee8350f5.js",
+    "runtime-main.js.map": "https://cmsundara.github.io/csb-ycmi9l/static/js/runtime-main.ee8350f5.js.map",
+    "static/js/2.c4d6faee.chunk.js": "https://cmsundara.github.io/csb-ycmi9l/static/js/2.c4d6faee.chunk.js",
+    "static/js/2.c4d6faee.chunk.js.map": "https://cmsundara.github.io/csb-ycmi9l/static/js/2.c4d6faee.chunk.js.map",
+    "index.html": "https://cmsundara.github.io/csb-ycmi9l/index.html",
+    "precache-manifest.e61ace4be74a68fbe7495191325d32a7.js": "https://cmsundara.github.io/csb-ycmi9l/precache-manifest.e61ace4be74a68fbe7495191325d32a7.js",
+    "service-worker.js": "https://cmsundara.github.io/csb-ycmi9l/service-worker.js",
+    "static/css/main.72dbce2d.chunk.css.map": "https://cmsundara.github.io/csb-ycmi9l/static/css/main.72dbce2d.chunk.css.map",
+    "static/js/2.c4d6faee.chunk.js.LICENSE.txt": "https://cmsundara.github.io/csb-ycmi9l/static/js/2.c4d6faee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee8350f5.js",
+    "static/js/2.c4d6faee.chunk.js",
+    "static/css/main.72dbce2d.chunk.css",
+    "static/js/main.ef3305a8.chunk.js"
+  ]
+}
